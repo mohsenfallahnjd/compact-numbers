@@ -1,0 +1,26 @@
+{
+  "name": "compact-numbers",
+  "version": "1.0.0",
+  "description": "The compact number format",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compact",
+    "js",
+    "number",
+    "compact-number"
+  ],
+  "author": "Mohsen Fallahnejad <mohsenfallahnjd@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsenfallahnjd/compact-numbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohsenfallahnjd/compact-numbers/issues"
+  },
+  "homepage": "https://github.com/mohsenfallahnjd/compact-numbers#readme"
+}
