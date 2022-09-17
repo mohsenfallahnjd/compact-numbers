@@ -5,6 +5,4 @@
  * @param {string} locale
  * @returns {string}
  */
-const compact = (number, locale = 'en') => (Intl.NumberFormat(locale, { notation: 'compact' }).format(number));
-
-module.exports = compact;
+export const compact = (number, locale = 'en') => (Intl.NumberFormat(locale, { notation: 'compact' }).format(number));

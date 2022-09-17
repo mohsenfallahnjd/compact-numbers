@@ -6,6 +6,8 @@ A simple JavaScript compact numbers
 
     npm i compact-numbers
 
+    yarn add compact-numbers
+
 ## Usage
 
 ```js
